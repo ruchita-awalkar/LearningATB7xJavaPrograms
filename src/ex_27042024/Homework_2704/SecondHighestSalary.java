@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class SecondHighestSalary {
     public static void main(String[] args) {
 
-        int[] salary = {7, 10, 4, 13, 25,28,30, 21, 9, 8, 17};
+        int[] salary = {1, 10, 14, 13, 2, 8, 30, 21, 17};
         int max = salary[0];
         int Second_highest = salary[0];
         
